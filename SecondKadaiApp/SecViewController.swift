@@ -14,7 +14,7 @@ class SecViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        secLabel.text = "こんにちは\(nameDate)です"
+        secLabel.text = "こんにちは\(nameDate)さん"
         // Do any additional setup after loading the view.
     }
     
